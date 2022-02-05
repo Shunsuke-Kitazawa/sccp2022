@@ -1,0 +1,277 @@
+server start
+
+[Error: SQLITE_ERROR: no such table: tasks] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+server start
+
+[Error: SQLITE_ERROR: table users has no column named username] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+server start
+
+server start
+
+[Error: SQLITE_ERROR: table users has no column named username] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+server start
+
+[Error: SQLITE_ERROR: table users has no column named username] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: table users has no column named username] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+server start
+
+TypeError: console is not a function
+    at Database.<anonymous> (/home/s1280027/sccp/exFinal/index.js:15:3)
+    at /home/s1280027/sccp/exFinal/index.js:13:5
+    at Layer.handle [as handle_request] (/home/s1280027/sccp/exFinal/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/s1280027/sccp/exFinal/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/s1280027/sccp/exFinal/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/s1280027/sccp/exFinal/node_modules/express/lib/router/layer.js:95:5)
+    at /home/s1280027/sccp/exFinal/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/s1280027/sccp/exFinal/node_modules/express/lib/router/index.js:341:12)
+    at next (/home/s1280027/sccp/exFinal/node_modules/express/lib/router/index.js:275:10)
+    at /home/s1280027/sccp/exFinal/node_modules/body-parser/lib/read.js:130:5
+server start
+
+yt8492
+second task
+[Error: SQLITE_ERROR: table users has no column named username] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+yt8492
+second task
+[Error: SQLITE_ERROR: table users has no column named username] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+yt8492
+second task
+[Error: SQLITE_ERROR: table users has no column named username] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+yt8492
+second task
+[Error: SQLITE_ERROR: table users has no column named username] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such column: username] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+[Error: SQLITE_ERROR: no such column: username] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+server start
+
+yt8492
+second task
+server start
+
+server start
+
+yt
+second task
+server start
+
+yt8492
+second task
+[Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: users.username] {
+  errno: 19,
+  code: 'SQLITE_CONSTRAINT'
+}
+server start
+
+{ id: 1, username: 'yt8492', displayName: 'second task' }
+[Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: users.username] {
+  errno: 19,
+  code: 'SQLITE_CONSTRAINT'
+}
+server start
+
+true
+[Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: users.username] {
+  errno: 19,
+  code: 'SQLITE_CONSTRAINT'
+}
+server start
+
+[Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: users.username] {
+  errno: 19,
+  code: 'SQLITE_CONSTRAINT'
+}
+node:internal/errors:464
+    ErrorCaptureStackTrace(err);
+    ^
+
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (/home/s1280027/sccp/exFinal/node_modules/express/lib/response.js:776:10)
+    at ServerResponse.json (/home/s1280027/sccp/exFinal/node_modules/express/lib/response.js:264:10)
+    at Statement.<anonymous> (/home/s1280027/sccp/exFinal/index.js:25:9) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+
+Node.js v17.1.0
+server start
+
+[Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: users.username] {
+  errno: 19,
+  code: 'SQLITE_CONSTRAINT'
+}
+node:internal/errors:464
+    ErrorCaptureStackTrace(err);
+    ^
+
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (/home/s1280027/sccp/exFinal/node_modules/express/lib/response.js:776:10)
+    at ServerResponse.json (/home/s1280027/sccp/exFinal/node_modules/express/lib/response.js:264:10)
+    at Statement.<anonymous> (/home/s1280027/sccp/exFinal/index.js:25:9) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+
+Node.js v17.1.0
+server start
+
+server start
+
+server start
+
+server start
+
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1334:16)
+    at listenInCluster (node:net:1382:12)
+    at Server.listen (node:net:1469:7)
+    at Function.listen (/home/s1280027/sccp/exFinal/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/s1280027/sccp/exFinal/index.js:191:5)
+    at Module._compile (node:internal/modules/cjs/loader:1097:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1361:8)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+
+Node.js v17.1.0
+server start
+
+server start
+
+{ userId: '1', content: 'hoge' }
+server start
+
+{ userId: '1', content: 'hoge' }
+server start
+
+server start
+
+/home/s1280027/sccp/exFinal/index.js:150
+			} else if (row === undefined) {
+			       ^
+
+ReferenceError: row is not defined
+    at Statement.<anonymous> (/home/s1280027/sccp/exFinal/index.js:150:11)
+
+Node.js v17.1.0
+server start
+
+/home/s1280027/sccp/exFinal/index.js:150
+			} else if (row === undefined) {
+			       ^
+
+ReferenceError: row is not defined
+    at Statement.<anonymous> (/home/s1280027/sccp/exFinal/index.js:150:11)
+
+Node.js v17.1.0
+server start
+
+server start
+
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1334:16)
+    at listenInCluster (node:net:1382:12)
+    at Server.listen (node:net:1469:7)
+    at Function.listen (/home/s1280027/sccp/exFinal/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/s1280027/sccp/exFinal/index.js:193:5)
+    at Module._compile (node:internal/modules/cjs/loader:1097:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1361:8)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+
+Node.js v17.1.0
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1334:16)
+    at listenInCluster (node:net:1382:12)
+    at Server.listen (node:net:1469:7)
+    at Function.listen (/home/s1280027/sccp/exFinal/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/s1280027/sccp/exFinal/index.js:193:5)
+    at Module._compile (node:internal/modules/cjs/loader:1097:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1361:8)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+
+Node.js v17.1.0
+server start
+
+server start
+[Error: SQLITE_ERROR: no such table: tewwts] {
+  errno: 1,
+  code: 'SQLITE_ERROR'
+}
+server start
